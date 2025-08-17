@@ -1,5 +1,5 @@
 # 💫 About Deepak:
-🚀 Cloud & DevOps Engineer with 3.2+ years of hands-on experience.<br>
+🚀 Cloud & DevOps Engineer with 3.5+ years of hands-on experience.<br>
 🎯 Skilled in AWS, Kubernetes, Docker, Jenkins, Git, and Terraform.<br>
 📊 Experienced in CI/CD automation, infrastructure provisioning, and monitoring.<br>
 🔍 Passionate about problem-solving, automation, and efficient deployments.<br>
