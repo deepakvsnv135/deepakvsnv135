@@ -6,6 +6,7 @@
 🌎 On a mission to simplify DevOps and deliver scalable solutions.<br>
 
 ## 🌐 Socials:
+[![Portfolio]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-vaishnav](https://deepak-vaishnav-devops-vsiszqt.gamma.site/))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-vaishnav)  
 📧 **Email:** deepakvsnv135@gmail.com  
 📱 **Contact:** +91 7878144316  
